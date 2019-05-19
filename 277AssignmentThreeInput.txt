@@ -1,0 +1,99 @@
+S
+Joe
+01011990
+S
+Mary
+01011992
+S
+Joe
+02022000
+V
+Staples Center
+3000
+V
+Forum
+2000
+V
+Staples Center
+1
+SP
+Basketball Game
+Staples Center
+12012018
+314.59
+Lakers
+Spurs
+SP
+Hockey Game
+Staples Center
+12182018
+256.50
+Kings
+Queens
+SP
+Hockey Game
+Staples Center
+03182018
+256.50
+X
+Y
+MU
+Rock Concert
+Forum
+12202018
+512.00
+AC/DC
+MU
+Violin Concert
+Staples Center
+11182018
+256.50
+Mozart
+SP
+Hockey Game
+CSULB
+03182018
+256.50
+Kings
+Queens
+MU
+Rock Concert
+The Pyramid
+04182018
+512.00
+AC/DC
+PS
+Basketball Game
+Joe
+01012018
+CASH
+PS
+Hockey Game
+Mary
+11012018
+CASH
+PM
+Rock Concert
+Mary
+03042018
+CREDIT
+PS
+xxxxxxx
+Joe
+01012018
+CASH
+PS
+Basketball Game
+Tom
+01012018
+CASH
+PM
+Rock Concert
+Joe
+08042018
+CREDIT
+PS
+Basketball Game
+Mary
+11042018
+CASH
